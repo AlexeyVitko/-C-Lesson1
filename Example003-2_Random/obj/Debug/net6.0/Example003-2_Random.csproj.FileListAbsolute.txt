@@ -1,0 +1,15 @@
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\bin\Debug\net6.0\Example003-2_Random.exe
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\bin\Debug\net6.0\Example003-2_Random.deps.json
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\bin\Debug\net6.0\Example003-2_Random.runtimeconfig.json
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\bin\Debug\net6.0\Example003-2_Random.dll
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\bin\Debug\net6.0\Example003-2_Random.pdb
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\Example003-2_Random.csproj.AssemblyReference.cache
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\Example003-2_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\Example003-2_Random.AssemblyInfoInputs.cache
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\Example003-2_Random.AssemblyInfo.cs
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\Example003-2_Random.csproj.CoreCompileInputs.cache
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\Example003-2_Random.dll
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\refint\Example003-2_Random.dll
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\Example003-2_Random.pdb
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\Example003-2_Random.genruntimeconfig.cache
+C:\Users\Aleksei\Desktop\C# Example 1-1\Example003-2_Random\obj\Debug\net6.0\ref\Example003-2_Random.dll
